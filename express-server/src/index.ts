@@ -1,4 +1,5 @@
 import express from "express"
+// hey what's happening
 import { createClient } from "redis"
 
 const app = express()
